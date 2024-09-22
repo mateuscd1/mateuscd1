@@ -20,15 +20,24 @@ Here are some ideas to get you started:
 
 <p align="center">Estudante de Engenharia de Computação na Universidade Estadual do Maranhão(UEMA). Atualmente trabalho com Python, C e estudando Java.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Constantemente aplicando meus conhecimentos para criar soluções inovadoras.
+
   
 #
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/283288153815646208)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 #
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscd1&show_icons=true&theme=merko)
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mateuscd1&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscd1)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/mateuscd1/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mateuscd1&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+
+
 #
 ## Tecnologias usadas.
 <div align="left">
@@ -54,6 +63,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </picture>
 
 <!-- GIF -->
-<p align="left">
+<div>
+  <p align="center">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+  </p>
+</div>
