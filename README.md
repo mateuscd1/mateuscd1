@@ -16,18 +16,21 @@ Here are some ideas to get you started:
 
 ### Olá, eu sou Mateus. 🖐🏻
 
-<img src="https://raw.githubusercontent.com/mateuscd1/mateuscd1/output/snake.svg" alt="Snake animation" />
-
-###
-
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/283288153815646208)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscd1&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscd1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias usadas.
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
 
 <div style=><br/>
     <img align="center" alt="html15" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -35,3 +38,9 @@ Here are some ideas to get you started:
     <img align="center" alt="html15" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
 </div>
+<br/>
+<br/>
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
