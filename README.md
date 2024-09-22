@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #
 
 <p align="center">Estudante de Engenharia de Computação na Universidade Estadual do Maranhão(UEMA). Atualmente trabalho com Python, C e estudando Java.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Constantemente aplicando meus conhecimentos para criar soluções inovadoras.
+Estou sempre atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Constantemente aplicando meus conhecimentos para criar soluções inovadoras.
 
   
 #
