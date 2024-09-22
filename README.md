@@ -31,7 +31,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscd1)](https://github.com/anuraghazra/github-readme-stats)
 #
 ## Tecnologias usadas.
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
