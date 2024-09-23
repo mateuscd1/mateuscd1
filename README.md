@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá, me chamo Mateus. 🖐🏻
+### Olá, sou o Mateus. 🖐🏻
 
 #
 
