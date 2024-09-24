@@ -23,8 +23,6 @@ Estou sempre atualizando meus conhecimentos e buscando novos desafios na área d
 
   
 #
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/283288153815646208)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 #
 <div style="text-align: center;" align="center">
@@ -52,6 +50,8 @@ Estou sempre atualizando meus conhecimentos e buscando novos desafios na área d
     <img align="center" alt="html15" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="html15" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="html15" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align="center" alt="html15" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
 
 </div>
 
@@ -61,6 +61,7 @@ Estou sempre atualizando meus conhecimentos e buscando novos desafios na área d
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateuscd1/mateuscd1/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateuscd1/mateuscd1/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 <!-- GIF -->
 <div>
