@@ -23,7 +23,7 @@ Estou sempre atualizando meus conhecimentos e buscando novos desafios na área d
 
   
 #
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateuscd_/)
 #
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
@@ -37,15 +37,7 @@ Estou sempre atualizando meus conhecimentos e buscando novos desafios na área d
 
 
 #
-## Tecnologias usadas.
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
+## 💻 Tecnologias usadas.
 <div style=><br/>
     <img align="center" alt="html15" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="html15" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
