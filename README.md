@@ -14,24 +14,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá, sou o Mateus. 🖐🏻
-<h4 align="center">Sou estudante de Engenharia da Computação na Universidade Estadual do Maranhão (UEMA), com foco em análise de dados. Tenho experiência em programação com as linguagens Python com ênfase em integração e análise de dados, desenvolvimento de aplicações web (Django), aplicações e a integração com Banco de Dados usando MySQL | Uso de Power BI para visualização de dados em dashboard robustas. Além disso, tenho conhecimento também nas linguagens C e Java.</h4>
+###
+
+<h1 align="center">Hello, I'm Mateus 👋</h1>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
+
+<h4 align="center">Sou estudante de Engenharia da Computação na Universidade Estadual do Maranhão (UEMA), com foco em análise de dados. Tenho experiência em programação com as linguagens Python com ênfase em integração e análise de dados, desenvolvimento de aplicações web (Django), aplicações e a integração com Banco de Dados usando MySQL | Uso de Power BI para visualização de dados em dashboard robustas. Além disso, tenho conhecimento também nas linguagens C e Java.</h4>
+
+###
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+</div>
+
 
 ###
 
@@ -43,9 +55,12 @@ Here are some ideas to get you started:
 
 ###
 
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateuscd1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuscd1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mateuscd1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuscd1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
