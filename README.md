@@ -15,41 +15,41 @@ Here are some ideas to get you started:
 -->
 
 ### Olá, sou o Mateus. 🖐🏻
+<h4 align="center">Sou estudante de Engenharia da Computação na Universidade Estadual do Maranhão (UEMA), com foco em análise de dados. Tenho experiência em programação com as linguagens Python com ênfase em integração e análise de dados, desenvolvimento de aplicações web (Django), aplicações e a integração com Banco de Dados usando MySQL | Uso de Power BI para visualização de dados em dashboard robustas. Além disso, tenho conhecimento também nas linguagens C e Java.</h4>
 
-#
+###
 
-<p align="center">Estudante de Engenharia de Computação na Universidade Estadual do Maranhão(UEMA). Atualmente trabalho com Python, C e estudando Java.
-Estou sempre atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Constantemente aplicando meus conhecimentos para criar soluções inovadoras.
-
-  
-#
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateuscd_/)
-#
-
-
-
-#
-## 💻 Tecnologias usadas.
-<div style=><br/>
-    <img align="center" alt="html15" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="html15" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img align="center" alt="html15" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="html15" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+###
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateuscd1/mateuscd1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateuscd1/mateuscd1/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateuscd1/mateuscd1/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-<!-- GIF -->
-<div>
-  <p align="center">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-  </p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-mateus-dutra-0bb682370/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mateuscd1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuscd1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mateuscd1/mateuscd1/output/snake.svg" alt="Snake animation" />
+
+###
