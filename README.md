@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 </div>
 
 
-<h4 align="center">Sou estudante de Engenharia da Computação na Universidade Estadual do Maranhão (UEMA), com foco em estudos sobre engenharia de dados. Tenho experiência em programação com as linguagens Python com ênfase em integração e análise de dados, desenvolvimento de aplicações web (Django), aplicações e a integração com Banco de Dados usando MySQL | Uso de Power BI para visualização de dados em dashboard robustas. Além disso, tenho conhecimento também nas linguagens C e Java. Estou também aperfeiçoando meus conhecimentos em HTML, CSS e JavaScript</h4>
+<h4 align="center">Sou estudante de Engenharia da Computação na Universidade Estadual do Maranhão (UEMA), com foco em Engenharia de Dados e Back-End. Tenho experiência em programação com as linguagens Python,  principalmente para 
+aplicações de análise de dados, desenvolvimento de aplicações web (Django), aplicações e a integração com Banco de Dados usando MySQL. Além disso, tenho conhecimento também nas linguagens C e Java. Estou também aperfeiçoando meus conhecimentos em HTML, CSS e JavaScript</h4>
 
 ###
 <div align="center">
