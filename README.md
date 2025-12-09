@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 
 <h4 align="center">Sou estudante de Engenharia da Computação na Universidade Estadual do Maranhão (UEMA), com foco em Engenharia de Dados e Back-End. Tenho experiência em programação com as linguagens Python,  principalmente para 
 aplicações de análise de dados, desenvolvimento de aplicações web (Django), aplicações e a integração com Banco de Dados usando MySQL. Além disso, tenho conhecimento também nas linguagens C e Java. Estou também aperfeiçoando meus conhecimentos em HTML, CSS e JavaScript</h4>
@@ -59,11 +55,6 @@ aplicações de análise de dados, desenvolvimento de aplicações web (Django),
 
 ###
 
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuscd1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
