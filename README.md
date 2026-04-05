@@ -1,67 +1,66 @@
+# Hello, I'm Mateus 👨‍💻
 
-<!--
-**mateuscd1/mateuscd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at UEMA
+🔐 Focused on Cybersecurity, IT Infrastructure and Data Analysis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
-###
+I'm focused on building practical skills in:
 
-<h1 align="center">Hello, I'm Mateus 👋</h1>
+* Cybersecurity (offensive & defensive basics)
+* Network analysis and monitoring
+* Linux server administration
+* Data analysis applied to infrastructure
 
-###
+I have experience with Python for data analysis and backend development, and I'm currently transitioning my focus to **security and infrastructure projects**.
 
+---
 
-<h4 align="center">Sou estudante de Engenharia da Computação na Universidade Estadual do Maranhão (UEMA), com foco em Engenharia de Dados e Back-End. Tenho experiência em programação com a linguagem Python para aplicações de análise de dados, desenvolvimento de aplicações web (Django), aplicações e a integração com Banco de Dados usando MySQL. Além disso, tenho conhecimento também nas linguagens C e Java. Estou também aperfeiçoando meus conhecimentos em HTML, CSS e JavaScript</h4>
+## 🛠️ Tech Stack
 
-###
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  
-</div>
+* **Languages:** Python, C
+* **Security & Networking:** TCP/IP, Network Analysis, Linux
+* **Tools:** Wireshark, Linux, Git
+* **Backend & Data:** Django, MySQL, Pandas, Matplotlib
 
+---
 
-###
+## 🔐 Cybersecurity & Infrastructure Projects
 
-<div align="center">
+Here are some of the projects I'm developing:
+
+* 🔎 Network Scanner (Python)
+* 📊 Log Analyzer for security events
+* 🐧 Linux server configuration & hardening
+* 📡 Network monitoring dashboard
+
+---
+
+## 📊 Data + Infrastructure
+
+* ATSC 3.0 signal data analysis project
+* Data processing and visualization with Python
+
+---
+
+## 📈 Current Goals
+
+* Improve skills in network security
+* Build real-world security tools
+* Learn more about SOC and monitoring systems
+
+---
+
+## 📫 Connect with me
+
+<div align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-mateus-dutra-0bb682370/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
-###
+---
 
-
-###
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateuscd1/mateuscd1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateuscd1/mateuscd1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mateuscd1/mateuscd1/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+⚡ Always learning. Always building.
